@@ -1,4 +1,4 @@
-experiments
+Experiments
 ===========
 
-some random experiments
+This repo is a backup of some experiments
